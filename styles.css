@@ -1,1 +1,29 @@
+body {
+    background-color: #FEF3E2;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0;
+    padding: 0;
+}
 
+.title-bar {
+    background-color: #708871;
+    padding: 10px;
+    text-align: center;
+}
+
+.title-bar a {
+    color: #E2F3FE;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.content {
+    padding: 20px;
+}
+.footer {
+    background-color: #E2F3FE;
+    padding: 10px;
+    text-align: center;
+    color: #606676;
+    border-top: 1px solid #606676;
+}
